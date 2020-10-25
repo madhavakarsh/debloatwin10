@@ -2,11 +2,16 @@
 
 DISCLAIMER: This repo is a personal copy for my Windows 10 post install setups. If you're seeing this, then you've either been shown this by me or you were sent here by me. Be careful, either way. At the end, this is your call to make. I will not assume responsibility for anything that goes wrong. And finally, please backup all your data before proceeding.
 
+
+The objective of this project is to debloat and make your Windows 10 installation privacy-focused. This project has been is inspired by Chris Titus, whose project has been forked to create this with several changes and updates. Changes will happen periodically, so expect changes every now and then.
+
+
 Use this command to execute the script in PowerShell:
 
 powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://git.io/JTr4a')"
 
-Follow these steps if you do not absolutely know what to do:
+
+Follow these steps if you absolutely do not know what to do:
 
 1. Copy the above PowerShell script
 2. Right click on your Start button and click on Windows Powershell (Admin) on the pop-up
