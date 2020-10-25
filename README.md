@@ -4,7 +4,7 @@ DISCLAIMER: This repo is a personal copy for my Windows 10 post install setups. 
 
 Use this command to execute the script in PowerShell:
 
-# powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://git.io/JTr4a')"
+powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://git.io/JTr4a')"
 
 Follow these steps if you do not absolutely know what to do:
 
